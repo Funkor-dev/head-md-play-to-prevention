@@ -4,7 +4,7 @@
 
 ### Pitch 
 
-A tower of Babel turned into a digital chatbox. Players gather cyclic limited ressources to text messages. The ones who can't communicate through the different ways of silence.
+A tower of Babel turned into a digital chatbox. Players gather cyclic limited ressources to text messages. The ones who can't communicate through the different designed ways of silence.
 
 ### Idea Development 
 
