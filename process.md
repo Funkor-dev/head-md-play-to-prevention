@@ -19,9 +19,7 @@ Insults and mean words are not censored, yet they transform the users avatars fr
 
 But *no one is fixed into a permanent definition*, players can evolve and mutate, a toxic textual player can become a gestual player and reverse.
 
-The chatbot as the main responsible of division
-- Asymmetric costs (care is expensive, cruelty is cheap)
-- Asymmetric visibility (texters can't read gestures, gesture-users can read speech but can choose any time to blur them)
+The chatbot as the main responsible of division, it's a dysfunctional structure embraced in its design.
 
 
 ## Idea 1 : Few steps back, right or bad idea ?
@@ -30,6 +28,7 @@ The chatbot as the main responsible of division
 
 I don't want to infantilize or moralize players, I would like to experiment a digital space where toxic players and bullied players can empower themselves through alternative ways of communicating.
 Instead of punishing toxicity directly, push and reinforce structural alternatives to counter it. 
+What about players using meta-communication (Discord, Instagram, Real Life, etc..) ? 
 
 
 
