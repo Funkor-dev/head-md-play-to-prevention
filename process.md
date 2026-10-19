@@ -19,7 +19,7 @@ Insults and mean words are not censored, yet they transform the users avatars fr
 
 But *no one is fixed into a permanent definition*, players can evolve and mutate, a toxic textual player can become a gestual player and reverse.
 
-The chatbox as the main responsible of division, it's a dysfunctional structure embraced in its design.
+**The chatbox as the main responsible of division, it's a dysfunctional structure embraced in its design.**
 
 
 ## Idea 1 : Few steps back, right or bad idea ?
