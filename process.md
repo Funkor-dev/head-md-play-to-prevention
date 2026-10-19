@@ -9,7 +9,7 @@ A tower of Babel turned into a digital chatbox. Players gather cyclic limited re
 ### Idea Development 
 
 A **group chat** accessible for all the players everywhere, but its own infrastructure is materialized inside the digital space. 
-To be able to write messages to everyone, a player has to collect particles, by wandering through the lands. The particles come back by natural cycle, and their existence has a function : protecting the infrastructure from the Void, a mysterious melodic silencing every player in its area.
+To be able to write messages to everyone, a player has to collect particles, by wandering through the lands. The particles come back by natural cycle, and their existence has a function : protecting the infrastructure from the Void, a mysterious melody silencing every player in its parasited areas.
 
 The players who have no particles can communicate through *silent gestures* and *displayed symbols* between themselves.
 
