@@ -9,7 +9,7 @@ A tower of Babel turned into a digital chatbox. Players gather cyclic limited re
 ### Idea Development 
 
 A **group chat** accessible for all the players everywhere, but its own infrastructure is materialized inside the digital space. 
-To be able to write messages to everyone, a player has to collect particles, by wandering through the lands. The particles come back by natural cycle, and their existence has a function : protecting the infrastructure from the Void, a mysterious melodic entity slowing and silencing every player.
+To be able to write messages to everyone, a player has to collect particles, by wandering through the lands. The particles come back by natural cycle, and their existence has a function : protecting the infrastructure from the Void, a mysterious melodic silencing every player in its area.
 
 The players who have no particles can communicate through *silent gestures* and *displayed symbols* between themselves.
 
@@ -19,7 +19,7 @@ Insults and mean words are not censored, yet they transform the users avatars fr
 
 But *no one is fixed into a permanent definition*, players can evolve and mutate, a toxic textual player can become a gestual player and reverse.
 
-The chatbot as the main responsible of division, it's a dysfunctional structure embraced in its design.
+The chatbox as the main responsible of division, it's a dysfunctional structure embraced in its design.
 
 
 ## Idea 1 : Few steps back, right or bad idea ?
