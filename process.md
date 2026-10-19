@@ -28,7 +28,9 @@ But *no one is fixed into a permanent definition*, players can evolve and mutate
 
 I don't want to infantilize or moralize players, I would like to experiment a digital space where toxic players and bullied players can empower themselves through alternative ways of communicating.
 Instead of punishing toxicity directly, push and reinforce structural alternatives to counter it. 
-What about players using meta-communication (Discord, Instagram, Real Life, etc..) ? 
+
+- What about players using meta-communication (Discord, Instagram, Real Life, etc..) ? Embrace it ? 
+- Can players be "trans", mi-textual mi-gestual users, navigating the chatbox in strategic ways ?
 
 
 
