@@ -48,7 +48,7 @@ What would happen if new players join and it disrupts the current players organi
 
 ![The Double Narration](banners/05-double-narration.png)
 
-We assume the players will treat the giant plants as the evil dysfunction of the game. But after experiencing the chatbox, some of them will probably wander in the plants zones, not targetting effiency and accepting slowness.
+We assume the players will treat the giant plants as the evil dysfunction of the game. But after experiencing the chatbox, some of them will probably wander in the plants zones, not targetting effiency and accepting slowness. What if the plants are nature taking back from an oppressive structure ?
 
 <p align="center"><img src="sims/05-double-narration.gif" width="440"></p>
 
