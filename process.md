@@ -2,7 +2,7 @@
 
 <p align="center"><sub><a href="#lamps">Lamps</a> · <a href="#plants">Plants</a> · <a href="#tension">Tension</a> · <a href="#chatbox">Chatbox</a> · <a href="#double">Double Narration</a> · <a href="#pulse">Pulse</a> · <a href="#notes">Extended Notes</a> · <a href="#sketches">Sketches</a> · <a href="#references">References</a></sub></p>
 
-My concept is a walking simulator where its chatbox’s infrastructure is materialized inside the digital space.
+*PITCH* : My concept is a walking simulator where its chatbox’s infrastructure is materialized inside the digital space.
 I’m mostly trying to design a small anti-bullying game that fix the structure instead of the individuals shaping it, bullies like victims, mostly with simple multiplayer interactions and relying on emergent simulation.
 
 <a name="lamps"></a>
@@ -113,6 +113,6 @@ How to resolve that ? How the space regulate itself on its own ? First of all, w
 <sub>When the server itself becomes the cyberbully entity, rejecting new players with a nightmarish spawn: the dysfunction of the digital space. The server lacking the technical ability to host new players, the community became xenophobic in reaction.</sub></p>
 
 <p align="center"><img src="references/fanon-damnes-de-la-terre.jpg" width="45%"><br>
-<b>Frantz Fanon</b>, <i>Les Damnés de la Terre</i> (1961)<sub> "The colonialist bourgeoisie, when it records the impossibility for it to maintain its domination over the colonial countries, decides to wage a rearguard combat on the terrain of culture, values, techniques, etc. Now, what must never be lost sight of is that the immense majority of colonized peoples is impermeable to these problems. For the colonized people the most essential value, because the most concrete, is first of all the land: the land which will bring them bread and, certainly, dignity."</sub></p>
+<b>Frantz Fanon</b>, <i>Les Damnés de la Terre</i> (1961)<sub> "*The colonialist bourgeoisie, when it records the impossibility for it to maintain its domination over the colonial countries, decides to wage a rearguard combat on the terrain of culture, values, techniques, etc. Now, what must never be lost sight of is that the immense majority of colonized peoples is impermeable to these problems. For the colonized people the most essential value, because the most concrete, is first of all the land: the land which will bring them bread and, certainly, dignity.*"</sub></p>
 
 - **Sky: Children of the Light** (thatgamecompany, 2019) — talking to strangers is gated: chat benches, emotes, and friendships unlocked with candles.
