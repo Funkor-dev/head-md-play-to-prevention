@@ -26,7 +26,7 @@ If the lamps are not visited in time, they signal they will break soon. When bro
 ![Emergent Tension](banners/03-emergent-tension.png)
 
 The players evolving in the digital space have to organize themselves if they don’t want inequalities between them (like for example, - a player who never collect a single particle in time and don’t feel included in the group). We assume they will use the chatbox to coordinate themselves.
-They are also the visible eyes of the collective to tell everyone when lamps will break.
+On a local level, they are the eyes of the collective to warn when they see lamps about to break.
 
 <p align="center"><img src="sims/03-emergent-tension.gif" width="440"></p>
 
@@ -36,7 +36,7 @@ They are also the visible eyes of the collective to tell everyone when lamps wil
 
 ### Toxicity in the Air
 
-The infrastructure of the chatbox itself feels dysfunctional for one reason : the particles of the lamps regenerate themselves after time (for our game it will be fast as it’s a short game). They are limited, it provokes scarcity.
+The infrastructure of the chatbox itself feels dysfunctional for one reason : the particles of the lamps regenerate themselves after time (for our game it will be fast as it’s a short game). They are limited, it provokes scarcity. Scarcity provokes resentment.
 There is what we could call a conversion pressure, the demand that the particles become messages and be consumed by its players.
 What would happen if new players join and it disrupts the current players organization ? Are they going to be able to express themselves ? What if some players have all the particles ? (cyberbullying by gatekeeping)
 
@@ -46,7 +46,7 @@ What would happen if new players join and it disrupts the current players organi
 
 ![The Double Narration](banners/05-double-narration.png)
 
-We assume the players will treat the giant plants as the evil dysfunction of the game. But after experimenting the chatbox, some of them will probably wander in the plants zones, not targetting effiency and accepting slowness.
+We assume the players will treat the giant plants as the evil dysfunction of the game. But after experiencing the chatbox, some of them will probably wander in the plants zones, not targetting effiency and accepting slowness.
 
 <p align="center"><img src="sims/05-double-narration.gif" width="440"></p>
 
@@ -54,7 +54,7 @@ We assume the players will treat the giant plants as the evil dysfunction of the
 
 ![The Pulse Agency](banners/06-pulse-agency.png)
 
-three silent players using together a specific emote in a a plant zone, the plant sends a pulse and the nearest lamp breaks.
+If three silent players use together a specific emote in a a plant zone, the plant sends a pulse and the nearest lamp breaks.
 
 <p align="center"><img src="sims/06-pulse-agency.gif" width="440"></p>
 
@@ -110,9 +110,9 @@ How to resolve that ? How the space regulate itself on its own ? First of all, w
 
 <p align="center"><img src="references/2b2t-spawn.jpg" width="85%"><br>
 <b>2b2t</b> (Minecraft server, 2010–)<br>
-<sub>When the server itself becomes the cyberbully entity, rejecting new players with a nightmarish spawn: the dysfunction of the digital space.</sub></p>
+<sub>When the server itself becomes the cyberbully entity, rejecting new players with a nightmarish spawn: the dysfunction of the digital space. The server lacking the technical ability to host new players, the community became xenophobic in reaction.</sub></p>
 
 <p align="center"><img src="references/fanon-damnes-de-la-terre.jpg" width="45%"><br>
-<b>Frantz Fanon</b>, <i>Les Damnés de la Terre</i> (1961)</p>
+<b>Frantz Fanon</b>, <i>Les Damnés de la Terre</i> (1961)<sub> "The colonialist bourgeoisie, when it records the impossibility for it to maintain its domination over the colonial countries, decides to wage a rearguard combat on the terrain of culture, values, techniques, etc. Now, what must never be lost sight of is that the immense majority of colonized peoples is impermeable to these problems. For the colonized people the most essential value, because the most concrete, is first of all the land: the land which will bring them bread and, certainly, dignity."</sub></p>
 
 - **Sky: Children of the Light** (thatgamecompany, 2019) — talking to strangers is gated: chat benches, emotes, and friendships unlocked with candles.
