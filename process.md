@@ -19,7 +19,7 @@ The players wander through a giant tower to collect limited particles from lamps
 
 ![The Plants](banners/02-plants.png)
 
-If the lamps are not visited in time, they signal they will break soon. When broken, it will emerge from them giant plants which diffuse quiet melodies and invade all they can. Players are slowed in its zones, and most of all they can’t use the chatbox anymore, only emotes.
+If the lamps are not visited in time, they signal they will break soon. When broken, giant plants will emerge from them, diffusing quiet melodies and invading their area. Players are slowed in its zones, but most of all they can’t use the chatbox anymore there, only emotes.
 
 <p align="center"><img src="sims/02-plants.gif" width="440"></p>
 
