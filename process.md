@@ -4,8 +4,8 @@
 
 <p align="center"><sub><a href="#lamps">Lamps</a> · <a href="#plants">Plants</a> · <a href="#tension">Tension</a> · <a href="#chatbox">Chatbox</a> · <a href="#double">Double Narration</a> · <a href="#pulse">Pulse</a> · <a href="#notes">Extended Notes</a> · <a href="#sketches">Sketches</a> · <a href="#references">References</a></sub></p>
 
-*PITCH* : My concept is a walking simulator where its chatbox’s infrastructure is materialized inside the digital space.
-I’m mostly trying to design a small anti-bullying game that fix the structure instead of the individuals shaping it, bullies like victims, mostly with simple multiplayer interactions and relying on emergent simulation.
+*PITCH* : My concept is a small multiplayer walking simulator where its chatbox’s infrastructure is materialized inside the digital space.
+I’m mostly trying to design a small anti-bullying game that fixes the structure instead of the individuals shaping it - bullies like victims - mostly with simple multiplayer interactions and relying on emergent simulation.
 
 <a name="lamps"></a>
 
