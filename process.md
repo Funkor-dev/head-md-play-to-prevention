@@ -70,7 +70,7 @@ How to resolve that ? How the space regulate itself on its own ? First of all, w
 <a name="sketches"></a>
 
 ![Notes & Sketches](banners/08-notes-and-sketches.png)
-
+<p> disclaimer : these sketches were exploration/research of concepts, they may not represent the final ideas.</p>
 <p align="center">
   <a href="sketches/07-promised-light.jpg"><img src="sketches/07-promised-light.jpg" width="23%"></a>
   <a href="sketches/01-walls-and-doors.jpg"><img src="sketches/01-walls-and-doors.jpg" width="19%"></a>
