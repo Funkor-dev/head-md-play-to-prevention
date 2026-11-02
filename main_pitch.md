@@ -39,7 +39,7 @@ On a local level, they are the eyes of the collective to warn when they see lamp
 ### Toxicity in the Air
 
 The infrastructure of the chatbox itself feels dysfunctional for one reason : the particles of the lamps regenerate themselves after time (for our game it will be fast as it’s a short game). They are limited, it provokes scarcity. Scarcity provokes resentment.
-There is what we could call a conversion pressure, the demand that the particles become messages and be consumed by its players.
+There is what we could call a **conversion pressure**, the demand that the particles become messages and be consumed by its players.
 What would happen if new players join and it disrupts the current players organization ? Are they going to be able to express themselves ? What if some players have all the particles ? (cyberbullying by gatekeeping)
 
 <p align="center"><img src="sims/04-dysfunctional-chatbox.gif" width="440"></p>
