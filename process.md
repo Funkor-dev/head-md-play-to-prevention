@@ -65,7 +65,7 @@ If three silent players use together a specific emote in a a plant zone, the pla
 ![Extended Notes](banners/07-extended-notes.png)
 
 I found one major design issue about my concept : if the chatbox is cursed to become toxic, the smartest move a player can do at some point, is to leave the game. Too much toxicity always lead to exhaustion of everyone involved. And we get an empty game.
-How to resolve that ? How the space regulate itself on its own ? First of all, we reinforce alternative ways of communicating (like the emotes), we give the players mechanics to have an impact on the structure of the chatbox (pulse agency)
+How to resolve that ? How the space regulate itself on its own ? How do we empower the players to challenge their dysfunctional community ? First of all, we reinforce alternative ways of communicating (like the emotes), we give the players mechanics to have an impact on the structure of the chatbox (pulse agency)
 
 <p align="center"><img src="sims/07-extended-notes.gif" width="440"></p>
 
